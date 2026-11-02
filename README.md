@@ -5,4 +5,13 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F00FF&center=true&vCenter=true&width=520&lines=AI+Enthusiasts;😎▶• ılıılıılıılıılıılı. 🤗" />
   </a>
 </p>
-![AI-Deepseek-Qwen](AI-Deepseek-Qwen.png)
+<p align="center">
+  <img src="AI-Deepseek-Qwen_compressed.png" alt="AI × DeepSeek × Qwen" width="50%" />
+</p>
+
+
+<p align="center">
+  <a href="https://afdian.com/a/astfast">
+    <img src="https://img.shields.io/badge/Sponsor%20Me-爱发电-946ce6?style=for-the-badge&logo=afdian&logoColor=white" alt="爱发电">
+  </a>
+</p>
